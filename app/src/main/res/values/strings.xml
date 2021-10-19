@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">readPackagesApp</string>
+    <string name="title_activity_main">/data/system/packages.xml</string>
+</resources>
