@@ -25,6 +25,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+        setTitle(R.string.title_activity_main);
         Log.v(TAG, "Activity created successfully");
 
         TextView textView = findViewById(R.id.text);
